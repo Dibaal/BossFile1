@@ -564,3 +564,63 @@ git branch
 git checkout f2
 git log --oneline
 clear
+cd myproject
+ls
+git status
+touch zebjoe
+stach zebjoe
+git commit
+git st
+clear
+ls -al
+clear
+ls
+vim kibi
+vim joel
+git st
+git stash -p
+git stash list
+git commit -m -a "done"
+git . add
+git add
+cd
+ssh-keygen
+clear
+ cat /root/.ssh/id_rsa.pub
+mkdir 20aug
+touch file11 file12 file13
+git add .
+git st
+git commit -m "commit all"
+git st
+git remote -v
+cd..
+touch aug20
+mkdir aug20
+git init
+touch file 11 file12 file13
+git add .
+git commit -m "testing SSH"
+git remote add origin git@github.com:Dibaal/Aug20.git
+git push origin master
+clear
+git st
+git add .
+git commit -a "done"
+git st
+git remote add origin git@github.com:Dibaal/BossFile1.git
+git push origin master
+git st
+cd myproject
+ls
+git st
+git add .
+git commit -m "track plaese"
+git st
+cd ..
+ls
+cd 20aug
+git st
+cd myproject
+ls
+git st
