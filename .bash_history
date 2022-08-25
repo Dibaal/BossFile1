@@ -790,3 +790,63 @@ ls -al
 clear
 git log
 clear
+git ls-files
+clear
+git ls-files
+vim newfile
+git diff newfile
+git st
+git restore newfile
+git st
+vime newfile
+vim newfile
+git diff newfile
+git st
+git checkout newfile
+cat newfile
+git st
+clear
+git ls-files
+clear
+git st
+vim testing
+git st
+git commit -a -m "added"
+git st
+clear
+git ls-files
+vim newfilezeb
+git ls-files
+git st
+git restore newfilezeb
+git st
+git ls-files
+vim file
+git st
+git add file
+git st
+git diff file
+git restore file
+git st
+vim file
+git diff file
+git st
+git reset HEAD file
+git st
+git add file
+git st
+git reset HEAD file
+git st
+git add file
+git st
+git restore --staged file
+git st
+git diff file
+git restore file
+git st
+git log --oneline
+git show ac43060
+git show 9954fac
+git revert 9954fac
+git git log --oneline
+git log --oneline

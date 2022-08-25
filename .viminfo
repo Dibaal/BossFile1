@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1661422812,,"wq!"
+|2,0,1661423214,,"wq!"
 :qw!
 |2,0,1659879742,,"qw!"
 
@@ -42,36 +42,108 @@
 |3,0,36,0,1,0,1660112225,"M"
 
 # File marks:
-'0  3  0  ~/testing
-|4,48,3,0,1661422812,"~/testing"
-'1  1  26  ~/newfile
-|4,49,1,26,1661422181,"~/newfile"
-'2  2  27  ~/newfile
-|4,50,2,27,1661421056,"~/newfile"
-'3  2  27  ~/newfile
-|4,51,2,27,1661421056,"~/newfile"
-'4  1  0  ~/sample.txt
-|4,52,1,0,1661187724,"~/sample.txt"
-'5  1  37  ~/newdir/itode
-|4,53,1,37,1661152009,"~/newdir/itode"
-'6  9  23  ~/script.sh
-|4,54,9,23,1661150577,"~/script.sh"
-'7  1  6  ~/myproject/joel
-|4,55,1,6,1661009870,"~/myproject/joel"
-'8  1  14  ~/myproject/kibi
-|4,56,1,14,1661009840,"~/myproject/kibi"
-'9  1  18  ~/myproject/kubi
-|4,57,1,18,1660986755,"~/myproject/kubi"
+'0  2  51  ~/file
+|4,48,2,51,1661423214,"~/file"
+'1  2  0  ~/file
+|4,49,2,0,1661423059,"~/file"
+'2  1  29  ~/newfilezeb
+|4,50,1,29,1661422908,"~/newfilezeb"
+'3  3  0  ~/testing
+|4,51,3,0,1661422812,"~/testing"
+'4  1  26  ~/newfile
+|4,52,1,26,1661422181,"~/newfile"
+'5  2  27  ~/newfile
+|4,53,2,27,1661421056,"~/newfile"
+'6  2  27  ~/newfile
+|4,54,2,27,1661421056,"~/newfile"
+'7  1  0  ~/sample.txt
+|4,55,1,0,1661187724,"~/sample.txt"
+'8  1  37  ~/newdir/itode
+|4,56,1,37,1661152009,"~/newdir/itode"
+'9  9  23  ~/script.sh
+|4,57,9,23,1661150577,"~/script.sh"
 
 # Jumplist (newest first):
+-'  2  51  ~/file
+|4,39,2,51,1661423214,"~/file"
+-'  2  0  ~/file
+|4,39,2,0,1661423059,"~/file"
+-'  1  0  ~/file
+|4,39,1,0,1661423041,"~/file"
+-'  1  0  ~/file
+|4,39,1,0,1661423041,"~/file"
+-'  1  29  ~/newfilezeb
+|4,39,1,29,1661422908,"~/newfilezeb"
+-'  1  29  ~/newfilezeb
+|4,39,1,29,1661422908,"~/newfilezeb"
+-'  1  29  ~/newfilezeb
+|4,39,1,29,1661422908,"~/newfilezeb"
+-'  1  29  ~/newfilezeb
+|4,39,1,29,1661422908,"~/newfilezeb"
 -'  3  0  ~/testing
 |4,39,3,0,1661422812,"~/testing"
+-'  3  0  ~/testing
+|4,39,3,0,1661422812,"~/testing"
+-'  3  0  ~/testing
+|4,39,3,0,1661422812,"~/testing"
+-'  3  0  ~/testing
+|4,39,3,0,1661422812,"~/testing"
+-'  3  0  ~/testing
+|4,39,3,0,1661422812,"~/testing"
+-'  3  0  ~/testing
+|4,39,3,0,1661422812,"~/testing"
+-'  3  0  ~/testing
+|4,39,3,0,1661422812,"~/testing"
+-'  3  0  ~/testing
+|4,39,3,0,1661422812,"~/testing"
+-'  1  0  ~/testing
+|4,39,1,0,1661422782,"~/testing"
+-'  1  0  ~/testing
+|4,39,1,0,1661422782,"~/testing"
+-'  1  0  ~/testing
+|4,39,1,0,1661422782,"~/testing"
+-'  1  0  ~/testing
+|4,39,1,0,1661422782,"~/testing"
+-'  1  0  ~/testing
+|4,39,1,0,1661422782,"~/testing"
+-'  1  0  ~/testing
+|4,39,1,0,1661422782,"~/testing"
+-'  1  0  ~/testing
+|4,39,1,0,1661422782,"~/testing"
 -'  1  0  ~/testing
 |4,39,1,0,1661422782,"~/testing"
 -'  1  26  ~/newfile
 |4,39,1,26,1661422181,"~/newfile"
 -'  1  26  ~/newfile
 |4,39,1,26,1661422181,"~/newfile"
+-'  1  26  ~/newfile
+|4,39,1,26,1661422181,"~/newfile"
+-'  1  26  ~/newfile
+|4,39,1,26,1661422181,"~/newfile"
+-'  1  26  ~/newfile
+|4,39,1,26,1661422181,"~/newfile"
+-'  1  26  ~/newfile
+|4,39,1,26,1661422181,"~/newfile"
+-'  1  26  ~/newfile
+|4,39,1,26,1661422181,"~/newfile"
+-'  1  26  ~/newfile
+|4,39,1,26,1661422181,"~/newfile"
+-'  1  26  ~/newfile
+|4,39,1,26,1661422181,"~/newfile"
+-'  1  26  ~/newfile
+|4,39,1,26,1661422181,"~/newfile"
+-'  1  26  ~/newfile
+|4,39,1,26,1661422181,"~/newfile"
+-'  1  26  ~/newfile
+|4,39,1,26,1661422181,"~/newfile"
+-'  1  26  ~/newfile
+|4,39,1,26,1661422181,"~/newfile"
+-'  1  26  ~/newfile
+|4,39,1,26,1661422181,"~/newfile"
+-'  1  26  ~/newfile
+|4,39,1,26,1661422181,"~/newfile"
+-'  1  26  ~/newfile
+|4,39,1,26,1661422181,"~/newfile"
 -'  2  27  ~/newfile
 |4,39,2,27,1661421056,"~/newfile"
 -'  2  27  ~/newfile
@@ -80,6 +152,90 @@
 |4,39,2,27,1661421056,"~/newfile"
 -'  2  27  ~/newfile
 |4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  1  0  ~/newfile
+|4,39,1,0,1661421007,"~/newfile"
+-'  1  0  ~/newfile
+|4,39,1,0,1661421007,"~/newfile"
+-'  1  0  ~/newfile
+|4,39,1,0,1661421007,"~/newfile"
+-'  1  0  ~/newfile
+|4,39,1,0,1661421007,"~/newfile"
+-'  1  0  ~/newfile
+|4,39,1,0,1661421007,"~/newfile"
+-'  1  0  ~/newfile
+|4,39,1,0,1661421007,"~/newfile"
+-'  1  0  ~/newfile
+|4,39,1,0,1661421007,"~/newfile"
+-'  1  0  ~/newfile
+|4,39,1,0,1661421007,"~/newfile"
+-'  1  0  ~/newfile
+|4,39,1,0,1661421007,"~/newfile"
+-'  1  0  ~/newfile
+|4,39,1,0,1661421007,"~/newfile"
+-'  1  0  ~/newfile
+|4,39,1,0,1661421007,"~/newfile"
+-'  1  0  ~/newfile
+|4,39,1,0,1661421007,"~/newfile"
+-'  1  0  ~/newfile
+|4,39,1,0,1661421007,"~/newfile"
+-'  1  0  ~/newfile
+|4,39,1,0,1661421007,"~/newfile"
 -'  1  0  ~/newfile
 |4,39,1,0,1661421007,"~/newfile"
 -'  1  0  ~/newfile
@@ -100,172 +256,31 @@
 |4,39,1,0,1661187724,"~/sample.txt"
 -'  1  0  ~/sample.txt
 |4,39,1,0,1661187724,"~/sample.txt"
--'  1  37  ~/newdir/itode
-|4,39,1,37,1661152009,"~/newdir/itode"
--'  1  37  ~/newdir/itode
-|4,39,1,37,1661152009,"~/newdir/itode"
--'  1  37  ~/newdir/itode
-|4,39,1,37,1661152009,"~/newdir/itode"
--'  1  37  ~/newdir/itode
-|4,39,1,37,1661152009,"~/newdir/itode"
--'  1  37  ~/newdir/itode
-|4,39,1,37,1661152009,"~/newdir/itode"
--'  1  37  ~/newdir/itode
-|4,39,1,37,1661152009,"~/newdir/itode"
--'  1  37  ~/newdir/itode
-|4,39,1,37,1661152009,"~/newdir/itode"
--'  1  37  ~/newdir/itode
-|4,39,1,37,1661152009,"~/newdir/itode"
--'  1  37  ~/newdir/itode
-|4,39,1,37,1661152009,"~/newdir/itode"
--'  1  37  ~/newdir/itode
-|4,39,1,37,1661152009,"~/newdir/itode"
--'  1  37  ~/newdir/itode
-|4,39,1,37,1661152009,"~/newdir/itode"
--'  1  37  ~/newdir/itode
-|4,39,1,37,1661152009,"~/newdir/itode"
--'  1  37  ~/newdir/itode
-|4,39,1,37,1661152009,"~/newdir/itode"
--'  1  37  ~/newdir/itode
-|4,39,1,37,1661152009,"~/newdir/itode"
--'  1  37  ~/newdir/itode
-|4,39,1,37,1661152009,"~/newdir/itode"
--'  1  37  ~/newdir/itode
-|4,39,1,37,1661152009,"~/newdir/itode"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  9  23  ~/script.sh
-|4,39,9,23,1661150577,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1661149741,"~/script.sh"
--'  1  6  ~/myproject/joel
-|4,39,1,6,1661009870,"~/myproject/joel"
--'  1  6  ~/myproject/joel
-|4,39,1,6,1661009870,"~/myproject/joel"
+-'  1  0  ~/sample.txt
+|4,39,1,0,1661187724,"~/sample.txt"
+-'  1  0  ~/sample.txt
+|4,39,1,0,1661187724,"~/sample.txt"
+-'  1  0  ~/sample.txt
+|4,39,1,0,1661187724,"~/sample.txt"
+-'  1  0  ~/sample.txt
+|4,39,1,0,1661187724,"~/sample.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/file
+	*	1661423210	0
+	"	2	51
+	^	2	52
+	.	2	51
+	+	1	23
+	+	2	51
+
+> ~/newfilezeb
+	*	1661422904	0
+	"	1	29
+	^	1	30
+	.	1	29
+	+	1	29
 
 > ~/testing
 	*	1661422808	0
