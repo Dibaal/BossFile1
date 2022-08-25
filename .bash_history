@@ -901,3 +901,13 @@ git .gitignore beki unity
 vim .gitignore beki unity
 add .gitignore
 commit -m "ignore"
+vim .gitignore
+git st
+vim .gitignore
+git add .gitignore
+commit -m "ignore"
+git st
+git add .
+git st
+git commit -a -m "all"
+git st
