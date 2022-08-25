@@ -911,3 +911,7 @@ git add .
 git st
 git commit -a -m "all"
 git st
+git commit -a -m "added"
+git st
+git remote add origin https://github.com/Dibaal/remoteoriginrepo25.git
+git remote rm origin
