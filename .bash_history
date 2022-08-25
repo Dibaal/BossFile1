@@ -624,3 +624,169 @@ git st
 cd myproject
 ls
 git st
+ssh-keygen
+ssh -keygen
+ssh-keygen
+cat /root/.ssh/id_rsa.pub
+git status
+git add .
+git commit -a -m "add"
+git status
+useradd joel
+ls
+cat /etc/password
+user addjoel
+useradd joel
+ls
+useradd alice
+ls -files
+ls -al
+clear
+useradd boomjah
+ls -al
+cat /etc/password
+cat /etc/passwd
+clear
+user
+pwd
+cd boomjah
+ls -al
+chmod u-x alice
+useradd alice
+chmod u-x alice
+chmod u-x joel
+ls -al
+chmod u-w sonal
+ls -al
+chmod u+w alice
+ls -al
+chmod u+w sonal
+ls -al
+cat /etc/bash
+cat /etc/shells
+which bash
+vim script.sh
+ls -al
+chmod u+x script.sh
+ls -al
+./clear
+clear
+./script.sh
+ls
+cd newdir
+ls
+cat myfile
+cat /etc/group
+cat /etc/passwd
+clear
+touch itode
+vim itode
+cp itode itode2
+cat itode2
+cat itode
+ls
+rm itode2
+ls
+ mv itode renamedfromitode
+ls
+mv renamedfromitode itode
+ls
+cp myfile abobi
+ls
+cat abobi
+clear
+sudo adduser linuxoperator
+cat /etc/passwd
+clear
+touch sample
+ls
+clear
+useradd john
+cat /etc/passwd
+clear
+cat /john/passwd
+cat /john/passwrd
+history
+clear
+cat /etc/passwd
+setfacl -m u:John:rwx Sample
+cat /etc/passwd
+setfacl -m u:John:rwx- Sample
+etfacl -m u:John:rw Sample
+setfacl -m u:John:rwx- Sample
+clear
+touch sample.txt
+ech "hello" > sample.txt
+echo "hello" >> sample.txt
+cat /etc/sample.txt
+cd sample.txt
+ls
+cat sample.txt
+vim sample.txt
+echo "single arrow test" > testing
+cat testing
+clear
+cat /etc/passwd
+clear
+cat sample.txt
+ls -al
+chmod 764 sample
+ls -al
+chmod 7654 sample
+ls -al
+chmod 764 sample.txt
+ls -al
+clear
+ls -al
+touch otu
+git add otu
+ls --files
+git -files
+git st
+git restore --staged otud
+git restore --staged otu
+git st
+ls
+git ls -files
+git st
+git ls -files
+git ls --files
+git ls-files
+git log
+git st
+git log
+git ls-files
+clear
+git log --oneline
+git show b257cc5
+clear
+cat ~/.gitconfig
+git config --list
+clear
+git config --list
+cat ~/.gitconfig
+cat /ete/gitconfig
+cat /etc/gitconfig
+cat ~/.gitconfig
+cat .git/config
+git config --global user.name Brighto
+git config --global user.email brightobrighto@yahoo.com
+cat ~/.gitconfig
+cat .git/config
+git confi local user.name zebjoe
+git config local user.name zebjoe
+git config --local user.name zebjoe
+git config --local user.email dibaal4htc@gmaol.com
+cat ./gitconfig
+cat ~/.gitconfig
+cat .git/config
+touch asele
+get add .
+add .
+git add asele
+gir commit -m "configtest"
+git commit -m "configtest"
+ls -al
+clear
+git log
+clear

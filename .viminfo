@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1661009870,,"wq!"
+|2,0,1661422812,,"wq!"
 :qw!
 |2,0,1659879742,,"qw!"
 
@@ -25,9 +25,9 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-"0	CHAR	0
-	Merge
-|3,0,0,0,1,0,1660112225,"Merge"
+""0	LINE	0
+	
+|3,1,0,1,1,0,1661422151,""
 "1	LINE	0
 	
 |3,0,1,1,1,0,1659964790,""
@@ -37,235 +37,268 @@
 "w	CHAR	0
 	!€ýa€ýa€ýa€ýa€ýa€ýa€ýa€ýai€kd€kd€kd€kd€ýa
 |3,0,32,0,1,0,1659879005,"!€ýa€ýa€ýa€ýa€ýa€ýa€ýa€ýai€kd€kd€kd€kd€ýa"
-""-	CHAR	0
+"-	CHAR	0
 	M
-|3,1,36,0,1,0,1660112225,"M"
+|3,0,36,0,1,0,1660112225,"M"
 
 # File marks:
-'0  1  6  ~/myproject/joel
-|4,48,1,6,1661009870,"~/myproject/joel"
-'1  1  14  ~/myproject/kibi
-|4,49,1,14,1661009840,"~/myproject/kibi"
-'2  1  18  ~/myproject/kubi
-|4,50,1,18,1660986755,"~/myproject/kubi"
-'3  5  9  ~/myproject/products
-|4,51,5,9,1660202033,"~/myproject/products"
-'4  2  13  ~/myproject/.git/MERGE_MSG
-|4,52,2,13,1660112250,"~/myproject/.git/MERGE_MSG"
-'5  1  10  ~/myproject/accounts
-|4,53,1,10,1660111995,"~/myproject/accounts"
-'6  5  9  ~/myproject/products
-|4,54,5,9,1660111592,"~/myproject/products"
-'7  4  10  ~/myproject/products
-|4,55,4,10,1660111376,"~/myproject/products"
-'8  4  10  ~/myproject/products
-|4,56,4,10,1660111376,"~/myproject/products"
-'9  4  10  ~/myproject/products
-|4,57,4,10,1660111376,"~/myproject/products"
+'0  3  0  ~/testing
+|4,48,3,0,1661422812,"~/testing"
+'1  1  26  ~/newfile
+|4,49,1,26,1661422181,"~/newfile"
+'2  2  27  ~/newfile
+|4,50,2,27,1661421056,"~/newfile"
+'3  2  27  ~/newfile
+|4,51,2,27,1661421056,"~/newfile"
+'4  1  0  ~/sample.txt
+|4,52,1,0,1661187724,"~/sample.txt"
+'5  1  37  ~/newdir/itode
+|4,53,1,37,1661152009,"~/newdir/itode"
+'6  9  23  ~/script.sh
+|4,54,9,23,1661150577,"~/script.sh"
+'7  1  6  ~/myproject/joel
+|4,55,1,6,1661009870,"~/myproject/joel"
+'8  1  14  ~/myproject/kibi
+|4,56,1,14,1661009840,"~/myproject/kibi"
+'9  1  18  ~/myproject/kubi
+|4,57,1,18,1660986755,"~/myproject/kubi"
 
 # Jumplist (newest first):
+-'  3  0  ~/testing
+|4,39,3,0,1661422812,"~/testing"
+-'  1  0  ~/testing
+|4,39,1,0,1661422782,"~/testing"
+-'  1  26  ~/newfile
+|4,39,1,26,1661422181,"~/newfile"
+-'  1  26  ~/newfile
+|4,39,1,26,1661422181,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  2  27  ~/newfile
+|4,39,2,27,1661421056,"~/newfile"
+-'  1  0  ~/newfile
+|4,39,1,0,1661421007,"~/newfile"
+-'  1  0  ~/newfile
+|4,39,1,0,1661421007,"~/newfile"
+-'  1  0  ~/sample.txt
+|4,39,1,0,1661187724,"~/sample.txt"
+-'  1  0  ~/sample.txt
+|4,39,1,0,1661187724,"~/sample.txt"
+-'  1  0  ~/sample.txt
+|4,39,1,0,1661187724,"~/sample.txt"
+-'  1  0  ~/sample.txt
+|4,39,1,0,1661187724,"~/sample.txt"
+-'  1  0  ~/sample.txt
+|4,39,1,0,1661187724,"~/sample.txt"
+-'  1  0  ~/sample.txt
+|4,39,1,0,1661187724,"~/sample.txt"
+-'  1  0  ~/sample.txt
+|4,39,1,0,1661187724,"~/sample.txt"
+-'  1  0  ~/sample.txt
+|4,39,1,0,1661187724,"~/sample.txt"
+-'  1  37  ~/newdir/itode
+|4,39,1,37,1661152009,"~/newdir/itode"
+-'  1  37  ~/newdir/itode
+|4,39,1,37,1661152009,"~/newdir/itode"
+-'  1  37  ~/newdir/itode
+|4,39,1,37,1661152009,"~/newdir/itode"
+-'  1  37  ~/newdir/itode
+|4,39,1,37,1661152009,"~/newdir/itode"
+-'  1  37  ~/newdir/itode
+|4,39,1,37,1661152009,"~/newdir/itode"
+-'  1  37  ~/newdir/itode
+|4,39,1,37,1661152009,"~/newdir/itode"
+-'  1  37  ~/newdir/itode
+|4,39,1,37,1661152009,"~/newdir/itode"
+-'  1  37  ~/newdir/itode
+|4,39,1,37,1661152009,"~/newdir/itode"
+-'  1  37  ~/newdir/itode
+|4,39,1,37,1661152009,"~/newdir/itode"
+-'  1  37  ~/newdir/itode
+|4,39,1,37,1661152009,"~/newdir/itode"
+-'  1  37  ~/newdir/itode
+|4,39,1,37,1661152009,"~/newdir/itode"
+-'  1  37  ~/newdir/itode
+|4,39,1,37,1661152009,"~/newdir/itode"
+-'  1  37  ~/newdir/itode
+|4,39,1,37,1661152009,"~/newdir/itode"
+-'  1  37  ~/newdir/itode
+|4,39,1,37,1661152009,"~/newdir/itode"
+-'  1  37  ~/newdir/itode
+|4,39,1,37,1661152009,"~/newdir/itode"
+-'  1  37  ~/newdir/itode
+|4,39,1,37,1661152009,"~/newdir/itode"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  9  23  ~/script.sh
+|4,39,9,23,1661150577,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1661149741,"~/script.sh"
 -'  1  6  ~/myproject/joel
 |4,39,1,6,1661009870,"~/myproject/joel"
--'  1  14  ~/myproject/kibi
-|4,39,1,14,1661009840,"~/myproject/kibi"
--'  1  14  ~/myproject/kibi
-|4,39,1,14,1661009840,"~/myproject/kibi"
--'  1  18  ~/myproject/kubi
-|4,39,1,18,1660986755,"~/myproject/kubi"
--'  1  18  ~/myproject/kubi
-|4,39,1,18,1660986755,"~/myproject/kubi"
--'  1  18  ~/myproject/kubi
-|4,39,1,18,1660986755,"~/myproject/kubi"
--'  1  18  ~/myproject/kubi
-|4,39,1,18,1660986755,"~/myproject/kubi"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660202033,"~/myproject/products"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660202033,"~/myproject/products"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660202033,"~/myproject/products"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660202033,"~/myproject/products"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660202033,"~/myproject/products"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660202033,"~/myproject/products"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660202033,"~/myproject/products"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660202033,"~/myproject/products"
--'  2  13  ~/myproject/.git/MERGE_MSG
-|4,39,2,13,1660112250,"~/myproject/.git/MERGE_MSG"
--'  2  13  ~/myproject/.git/MERGE_MSG
-|4,39,2,13,1660112250,"~/myproject/.git/MERGE_MSG"
--'  2  13  ~/myproject/.git/MERGE_MSG
-|4,39,2,13,1660112250,"~/myproject/.git/MERGE_MSG"
--'  2  13  ~/myproject/.git/MERGE_MSG
-|4,39,2,13,1660112250,"~/myproject/.git/MERGE_MSG"
--'  2  13  ~/myproject/.git/MERGE_MSG
-|4,39,2,13,1660112250,"~/myproject/.git/MERGE_MSG"
--'  2  13  ~/myproject/.git/MERGE_MSG
-|4,39,2,13,1660112250,"~/myproject/.git/MERGE_MSG"
--'  2  13  ~/myproject/.git/MERGE_MSG
-|4,39,2,13,1660112250,"~/myproject/.git/MERGE_MSG"
--'  2  13  ~/myproject/.git/MERGE_MSG
-|4,39,2,13,1660112250,"~/myproject/.git/MERGE_MSG"
--'  2  13  ~/myproject/.git/MERGE_MSG
-|4,39,2,13,1660112250,"~/myproject/.git/MERGE_MSG"
--'  2  13  ~/myproject/.git/MERGE_MSG
-|4,39,2,13,1660112250,"~/myproject/.git/MERGE_MSG"
--'  2  13  ~/myproject/.git/MERGE_MSG
-|4,39,2,13,1660112250,"~/myproject/.git/MERGE_MSG"
--'  2  13  ~/myproject/.git/MERGE_MSG
-|4,39,2,13,1660112250,"~/myproject/.git/MERGE_MSG"
--'  2  13  ~/myproject/.git/MERGE_MSG
-|4,39,2,13,1660112250,"~/myproject/.git/MERGE_MSG"
--'  2  13  ~/myproject/.git/MERGE_MSG
-|4,39,2,13,1660112250,"~/myproject/.git/MERGE_MSG"
--'  2  13  ~/myproject/.git/MERGE_MSG
-|4,39,2,13,1660112250,"~/myproject/.git/MERGE_MSG"
--'  2  13  ~/myproject/.git/MERGE_MSG
-|4,39,2,13,1660112250,"~/myproject/.git/MERGE_MSG"
--'  1  0  ~/myproject/.git/MERGE_MSG
-|4,39,1,0,1660112206,"~/myproject/.git/MERGE_MSG"
--'  1  0  ~/myproject/.git/MERGE_MSG
-|4,39,1,0,1660112206,"~/myproject/.git/MERGE_MSG"
--'  1  0  ~/myproject/.git/MERGE_MSG
-|4,39,1,0,1660112206,"~/myproject/.git/MERGE_MSG"
--'  1  0  ~/myproject/.git/MERGE_MSG
-|4,39,1,0,1660112206,"~/myproject/.git/MERGE_MSG"
--'  1  0  ~/myproject/.git/MERGE_MSG
-|4,39,1,0,1660112206,"~/myproject/.git/MERGE_MSG"
--'  1  0  ~/myproject/.git/MERGE_MSG
-|4,39,1,0,1660112206,"~/myproject/.git/MERGE_MSG"
--'  1  0  ~/myproject/.git/MERGE_MSG
-|4,39,1,0,1660112206,"~/myproject/.git/MERGE_MSG"
--'  1  0  ~/myproject/.git/MERGE_MSG
-|4,39,1,0,1660112206,"~/myproject/.git/MERGE_MSG"
--'  1  0  ~/myproject/.git/MERGE_MSG
-|4,39,1,0,1660112206,"~/myproject/.git/MERGE_MSG"
--'  1  0  ~/myproject/.git/MERGE_MSG
-|4,39,1,0,1660112206,"~/myproject/.git/MERGE_MSG"
--'  1  0  ~/myproject/.git/MERGE_MSG
-|4,39,1,0,1660112206,"~/myproject/.git/MERGE_MSG"
--'  1  0  ~/myproject/.git/MERGE_MSG
-|4,39,1,0,1660112206,"~/myproject/.git/MERGE_MSG"
--'  1  0  ~/myproject/.git/MERGE_MSG
-|4,39,1,0,1660112206,"~/myproject/.git/MERGE_MSG"
--'  1  0  ~/myproject/.git/MERGE_MSG
-|4,39,1,0,1660112206,"~/myproject/.git/MERGE_MSG"
--'  1  0  ~/myproject/.git/MERGE_MSG
-|4,39,1,0,1660112206,"~/myproject/.git/MERGE_MSG"
--'  1  0  ~/myproject/.git/MERGE_MSG
-|4,39,1,0,1660112206,"~/myproject/.git/MERGE_MSG"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  1  10  ~/myproject/accounts
-|4,39,1,10,1660111995,"~/myproject/accounts"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660111592,"~/myproject/products"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660111592,"~/myproject/products"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660111592,"~/myproject/products"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660111592,"~/myproject/products"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660111592,"~/myproject/products"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660111592,"~/myproject/products"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660111592,"~/myproject/products"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660111592,"~/myproject/products"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660111592,"~/myproject/products"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660111592,"~/myproject/products"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660111592,"~/myproject/products"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660111592,"~/myproject/products"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660111592,"~/myproject/products"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660111592,"~/myproject/products"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660111592,"~/myproject/products"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660111592,"~/myproject/products"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660111592,"~/myproject/products"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660111592,"~/myproject/products"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660111592,"~/myproject/products"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660111592,"~/myproject/products"
--'  5  9  ~/myproject/products
-|4,39,5,9,1660111592,"~/myproject/products"
+-'  1  6  ~/myproject/joel
+|4,39,1,6,1661009870,"~/myproject/joel"
 
 # History of marks within files (newest to oldest):
+
+> ~/testing
+	*	1661422808	0
+	"	3	0
+	^	3	0
+	.	2	20
+	+	2	20
+
+> ~/newfile
+	*	1661422177	0
+	"	1	26
+	^	1	27
+	.	1	26
+	+	2	27
+	+	1	26
+
+> ~/sample.txt
+	*	1661187719	0
+	"	1	0
+
+> ~/newdir/itode
+	*	1661152003	0
+	"	1	37
+	^	1	38
+	.	1	37
+	+	1	37
+
+> ~/script.sh
+	*	1661150569	0
+	"	9	23
+	^	9	24
+	.	9	24
+	+	9	24
 
 > ~/myproject/joel
 	*	1661009863	0
@@ -371,7 +404,3 @@
 	.	1	0
 	+	1	5
 	+	1	0
-
-> ~/script.sh
-	*	1658486233	0
-	"	1	0
