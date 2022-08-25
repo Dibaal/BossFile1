@@ -850,3 +850,54 @@ git show 9954fac
 git revert 9954fac
 git git log --oneline
 git log --oneline
+ls
+git ls-files
+rm config.xml
+git ls-files
+git st
+git add .
+git st
+git commit -a -m "all"
+git st
+ls
+git ls-files
+git st
+rm filexm1
+rm file.xm1
+rm otu
+ls
+git st
+gir commit -a -y "m"
+git ls-files
+git --onelog
+git st
+git commit -a -y "d"
+git st
+git add .
+git commit -a -m "d"
+git st
+git ls-files
+ls
+git log --oneline
+show a732a16
+git show a732a16
+ls
+git ls-files
+git rm 1
+ls
+git st
+git ls-files
+git add 1
+git commit -a -m "1"
+git st
+git log --online
+git log --oneline
+git show 1a71665
+git revert 1a71665
+touch beki unity
+git st
+git .gitignore
+git .gitignore beki unity
+vim .gitignore beki unity
+add .gitignore
+commit -m "ignore"
